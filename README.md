@@ -1,8 +1,8 @@
 # SharedElementAnimation
 
-SharredElement Animation for Fragment to Fragment Transition : 
+SharedElement Animation for Fragment to Fragment Transition : 
 
-![SharredElementAnimation Demo](demo/demo.gif)
+![SharedElementAnimation Demo](demo/demo.gif)
 
 Note : This project was made when the "SharedElementAnimation" was not provided for Fragments.
 And this works for PreLolipop devices as well.
