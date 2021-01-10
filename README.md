@@ -1,4 +1,4 @@
-# SharedElementAnimation - Custom (Doesn't use provided one)
+# SharedElementAnimation (Custom - Doesn't use Android one)
 
 This project was created in 2016.
 
