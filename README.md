@@ -2,7 +2,7 @@
 
 This project was created in 2016.
 
-SharedElement Animation for Fragment to Fragment Transition : 
+"Custom" SharedElement Animation for Fragment to Fragment Transition : 
 
 ![SharedElementAnimation Demo](demo/demo.gif)
 
