@@ -1,4 +1,4 @@
-# SharedElementAnimation
+# SharedElementAnimation - Custom (Doesn't use provided one)
 
 This project was created in 2016.
 
